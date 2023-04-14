@@ -2,7 +2,7 @@ export default {
   COLORS: {
     BACKGROUND: "#1C1B1E",
     BACKGROUND_HEADER: "rgba(255, 133, 155, 0.05)",
-    BACKGROUND_MYMOVIES: "rgba(255, 133, 155, 0.05)",
+    BACKGROUND_MYMOVIESCARDS: "rgba(255, 133, 155, 0.05)",
     BACKGROUND_TAG: "#312E38",
 
     H2: "#F4EDE8",
@@ -11,7 +11,7 @@ export default {
     PARAGRAPH_MYMOVIES: "#999591",
     PARAGRAPH_MOVIEINFO: "#F4EDE8",
 
-    PLACEHOLDER_ICONS: "#948F99",
+    PLACEHOLDER_ICONS_COLOR: "#948F99",
 
     INPUT_FIELD: "#262529",
 
@@ -20,6 +20,8 @@ export default {
     TAG_TEXT: "#E5E5E5",
 
     PINK: "#FF859B",
+
+    WHITE: "#FFF"
 
 
   }
