@@ -1,9 +1,13 @@
 import { Container } from './styles.js'
 
-export function Button({ value, ...rest}){
+export function Button({ title, ...rest}){
   return(
-    <Container {...rest}>
-      {value}
+    <Container
+      type="button"
+      {...rest}
+    >
+      {title}
+
     </Container>
   )
 }
