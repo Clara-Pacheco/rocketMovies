@@ -21,7 +21,9 @@ export default {
 
     PINK: "#FF859B",
 
-    WHITE: "#FFF"
+    WHITE: "#FFF",
+
+    IMG_BORDER: "#3E3B47"
 
 
   }
