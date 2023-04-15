@@ -5,11 +5,10 @@ export const Container = styled.div`
   flex-direction: column;
   align-items: start;
 
+  background-color: ${({ theme }) => theme.COLORS.BACKGROUND_MYMOVIESCARDS};
+
   padding: 32px;
   margin: 0 132px;
   gap: 15px;
 
-  background-color: ${({ theme }) => theme.COLORS.BACKGROUND_MYMOVIESCARDS};
-
- 
 `;
