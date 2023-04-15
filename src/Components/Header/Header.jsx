@@ -1,4 +1,4 @@
-import { Container, Input, Profile } from './styles'
+import { Container, Input, Profile } from './styles.js'
 
 export function Header(){
   return (
