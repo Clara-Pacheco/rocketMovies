@@ -8,7 +8,6 @@ export const Container = styled.div`
 
   display: flex;
   align-items: center;
-  justify-content: center;
 
   padding: 24px 123px;
   gap: 64px;
@@ -55,6 +54,7 @@ export const Input = styled.input`
       display: flex;
       align-items: center;
       justify-content: center;
+      margin-right: 132px;
       
 
       width: 198px;
@@ -82,8 +82,11 @@ export const Input = styled.input`
         width: 64px;
         height: 64px;
         border-radius: 50%;
+     
 
         border: 1px solid ${({ theme }) => theme.COLORS.IMG_BORDER};
+
+
       }
   `;
 
