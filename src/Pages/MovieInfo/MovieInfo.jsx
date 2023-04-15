@@ -1,4 +1,4 @@
-import { Container } from './styles.js'
+import { Container, Button } from './styles.js'
 
 import { FiPlus } from 'react-icons/fi'
 
@@ -11,10 +11,10 @@ export function MovieInfo() {
       <div>
         <h1>Meus filmes</h1>
         
-        <button>
+        <Button>
           <FiPlus />
           Adicionar filme
-        </button>
+        </Button>
       </div>
     </Container>
   )
