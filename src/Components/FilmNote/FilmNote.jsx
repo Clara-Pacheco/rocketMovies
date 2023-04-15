@@ -16,9 +16,7 @@ export function FilmNote({ title,children}){
         <FiStar />
       </div>
       {children}
-      <Tag>
-        
-      </Tag>
+    
     </Container>
   )
 
