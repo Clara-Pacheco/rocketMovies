@@ -30,7 +30,7 @@ export function MovieInfo() {
           com ela. Pai e filha descobrem que o 'fantasma'
           é uma inteligência desconhecida que está enviando
           mensagens codificadas através de" 
-          value="Romance"
+         
         />
 
         <FilmNote 
