@@ -16,6 +16,8 @@ export default {
     INPUT_FIELD: "#262529",
 
     BUTTON_TEXT: "#312E38",
+    MOVIEINFO_BUTTON_TEXT: "#1C1B1E",
+    
     
     TAG_TEXT: "#E5E5E5",
 
