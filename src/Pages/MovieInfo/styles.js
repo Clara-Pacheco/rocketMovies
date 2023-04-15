@@ -4,7 +4,6 @@ export const Container = styled.div`
   width: 100%;
   height: 100vh;
 
-
   > div {
     display: flex;
     align-items: center;
@@ -18,29 +17,28 @@ export const Container = styled.div`
       line-height: 42px;
 
     }
+  }
 
-    > button {
-      
-      width: 207px;
-      height: 48px;
-      border-radius: 8px;
-      border: none;
+`;
 
-      display: flex;
-      justify-content: center;
-      align-items: center;
+export const Button = styled.button`
+    width: 207px;
+    height: 48px;
+    border-radius: 8px;
+    border: none;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
 
-      background-color: ${({ theme }) => theme.COLORS.PINK};
-      color: ${({ theme }) => theme.COLORS.MOVIEINFO_BUTTON_TEXT};
+    background-color: ${({ theme }) => theme.COLORS.PINK};
+    color: ${({ theme }) => theme.COLORS.MOVIEINFO_BUTTON_TEXT};
 
       svg {
         width: 16px;
         height: 16px;
         margin-right: 8px;
       }
-    }
-
-  }
-
+    
 `;
