@@ -6,10 +6,9 @@ export const Container = styled.div`
 
   > div {
     display: flex;
-    align-items: center;
     justify-content: space-between;
-
     padding: 50px 123px;
+    margin: 0 132px;
 
     > h1 {
       font-weight: 400;
@@ -42,3 +41,4 @@ export const Button = styled.button`
       }
     
 `;
+
