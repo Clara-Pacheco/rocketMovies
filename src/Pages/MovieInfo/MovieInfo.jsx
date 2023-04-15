@@ -1,6 +1,12 @@
+import { Container } from './styles.js'
+
+import { Header } from '../../Components/Header/Header.jsx'
+
 export function MovieInfo() {
   return (
-    <h1>Teste</h1>
+    <Container>
+      <Header />
+    </Container>
   )
 }
 
