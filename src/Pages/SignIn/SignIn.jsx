@@ -1,10 +1,10 @@
 import { Container,Form,Background } from './styles.js'
 
-import { FiMail, FiLock, FiArrowLeft} from 'react-icons/fi'
+import { FiMail, FiLock } from 'react-icons/fi'
 
 import { Button } from '../../Components/Button/Button'
 import { Input } from '../../Components/Input/Input'
-import { ButtonText } from '../../Components/ButtonText/ButtonText.jsx'
+
 
 export function SignIn(){
   return(
@@ -27,8 +27,9 @@ export function SignIn(){
         />
         <Button title="Entrar" /> 
 
-        <ButtonText value="Criar conta" icon={ FiArrowLeft } />
-      
+        <a href='#'>
+          Criar conta
+        </a>
        </Form>
 
        <Background />
