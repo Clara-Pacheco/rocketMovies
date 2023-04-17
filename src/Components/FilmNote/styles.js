@@ -5,10 +5,34 @@ export const Container = styled.div`
   flex-direction: column;
   align-items: start;
 
-  background-color: ${({ theme }) => theme.COLORS.BACKGROUND_MYMOVIESCARDS};
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
 
-  padding: 32px;
-  margin: 0 132px;
-  gap: 15px;
+  color: ${({ theme }) => theme.COLORS.PARAGRAPH_MYMOVIES};
 
+  > h2 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+
+    margin-bottom: 8px;
+
+    color: ${({ theme }) => theme.COLORS.H2};
+  }
+
+  > div {
+    svg {
+      font-size: 12px;
+      height: 11px;
+
+      margin-right: 6px;
+      margin-bottom: 15px;
+
+      color: ${({ theme }) => theme.COLORS.PINK};
+    }
+  }
+      
 `;
