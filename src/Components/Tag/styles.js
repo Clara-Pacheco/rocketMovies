@@ -3,10 +3,12 @@ import styled from "styled-components";
 export const Container = styled.div`
 
   width: 121px;
-  height: 24px;
-  padding: 5px 16px;
+  height: 30px;
+  padding: 8px 16px;
 
-  display: inline-block;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
   margin-right: 8px; 
 
   background-color: ${({ theme }) => theme.COLORS.BUTTON_TEXT};
@@ -17,6 +19,4 @@ export const Container = styled.div`
   font-size: 12px;
   line-height: 14px;
   text-align: center;
-
-
 `;
