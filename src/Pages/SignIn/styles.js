@@ -53,6 +53,17 @@ export const Form = styled.form`
    color: ${({ theme }) => theme.COLORS.PARAGRAPH_MOVIEINFO};
   }
 
+  a {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    text-align: center;
+
+    color: ${({ theme }) => theme.COLORS.PINK};
+
+    margin-top: 42px;
+  }
+
 `;
 
 export const Background = styled.div`
