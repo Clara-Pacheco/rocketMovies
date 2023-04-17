@@ -32,8 +32,11 @@ export function SignUp(){
         />
         <Button title="Cadastrar" /> 
 
-        <ButtonText value="Voltar para o login" icon={ FiArrowLeft } />
-       
+        <a href='#'>
+          <FiArrowLeft />
+          Voltar para login
+        </a>
+        
        </Form>
 
        <Background />
