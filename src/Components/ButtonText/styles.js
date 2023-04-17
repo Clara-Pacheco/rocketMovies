@@ -12,7 +12,7 @@ export const Container = styled.button`
   line-height: 21px;
   text-align: center;
 
-  margin-top: 42px;
+  /* margin-top: 42px; */
 
   color: ${({ theme }) => theme.COLORS.PINK};
 
