@@ -4,7 +4,6 @@ import { FiMail, FiLock, FiUser,FiArrowLeft} from 'react-icons/fi'
 
 import { Button } from '../../Components/Button/Button'
 import { Input } from '../../Components/Input/Input'
-import { ButtonText } from '../../Components/ButtonText/ButtonText.jsx'
 
 export function SignUp(){
   return(
