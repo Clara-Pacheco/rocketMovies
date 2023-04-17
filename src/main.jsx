@@ -5,16 +5,18 @@ import GlobalStyles from './styles/global.js'
 import theme from './styles/theme.js'
 
 
-import { MovieInfo } from './Pages/MovieInfo/MovieInfo.jsx'
 import { SignIn } from './Pages/SignIn/SignIn.jsx'
 import { SignUp } from './Pages/SignUp/SignUp.jsx'
 import { Profile } from './Pages/Profile/Profile.jsx'
+import { MoviePreview } from './Pages/MoviePreview/MoviePreview.jsx'
+import { Home } from './Pages/Home/Home.jsx'
+import { CreateMovie } from './Pages/CreateMovie/CreateMovie.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <ThemeProvider theme={theme}>
       <GlobalStyles />
-        <Profile />
+        <CreateMovie />
     </ThemeProvider>
   </React.StrictMode>,
 )
