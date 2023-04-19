@@ -103,8 +103,10 @@ export const PublisherInfo = styled.div`
 `;
 
 export const TagGroup = styled.div`
+ 
   display: flex;
   margin-top: 60px;
+  gap: 12px;
  
   width: 276px;
   height: 30px;
