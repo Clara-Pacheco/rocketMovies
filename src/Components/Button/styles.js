@@ -8,8 +8,8 @@ export const Container = styled.button`
   border-radius: 10px;
   margin-top: 24px;
 
-  background-color: ${({ theme }) => theme.COLORS.PINK};
-  color: ${({ theme }) => theme.COLORS.BACKGROUND_TAG};
+  background-color: ${({ theme, toSave }) => toSave ? theme.COLORS.PINK : theme.COLORS.BACKGROUND_MYMOVIES_MARKERS};
+  color: ${({ theme, toSave }) => toSave ? theme.COLORS.BACKGROUND_TAG : theme.COLORS.PINK};
 
   font-weight: 500;
   font-size: 16px;
