@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const Container = styled.textarea`
   width: 100%;
-  height: 247px;
+  height: 274px;
 
   border-radius: 10px;
   border: none;
@@ -12,7 +12,7 @@ export const Container = styled.textarea`
   color: ${({ theme }) => theme.COLORS.PLACEHOLDER_ICONS_COLOR};
 
   padding: 19px 16px;
-  margin-bottom: 40px;
+  /* margin-bottom: 40px; */
 
   &::placeholder {
     color: ${({ theme }) => theme.COLORS.PLACEHOLDER_ICONS_COLOR};
