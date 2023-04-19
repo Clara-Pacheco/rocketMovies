@@ -11,12 +11,14 @@ import { Profile } from './Pages/Profile/Profile.jsx'
 import { MoviePreview } from './Pages/MoviePreview/MoviePreview.jsx'
 import { Home } from './Pages/Home/Home.jsx'
 import { CreateMovie } from './Pages/CreateMovie/CreateMovie.jsx'
+import { Routes } from './Routes/index'
+
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <ThemeProvider theme={theme}>
       <GlobalStyles />
-        <CreateMovie />
+        <Routes />
     </ThemeProvider>
   </React.StrictMode>,
 )
