@@ -38,6 +38,7 @@ O resultado final desse desafio deve ser algo em torno de:
 Aqui neste **[link](https://www.figma.com/file/PAc8jXVZnFevkhiuNPKV5u/RocketMovies-(Copy)?node-id=0-1&t=oopGOY8Dkq60QwoY-0)** você tem acesso ao Figma do projeto.
 
 <br>  
+
 ## 💾 Tecnologias  
 
 ReactJS - utilizado para construir as interfaces;
@@ -48,6 +49,7 @@ Vite - usado para criar um projeto React;
 NPM - utilizado para realizar a instalação das dependências;
 
 <br>  
+
 ## 📝 Sobre  
 
 Este é um dos projetos propostos no programa Explorer da Rocketseat, nível 09, onde é discutido e trabalhado o framework ReactJS, e dois projetos são construídos visando a consolidação de todos os conceitos e o entendimento via prática. A aplicação RocketMovies é o frontend de um sistema que faz o cadastro de usuários, e permite que esses usuários cadastrem, visualizem, editem e excluam anotações de filmes em uma API RESTful.
