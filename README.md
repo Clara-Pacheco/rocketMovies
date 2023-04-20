@@ -31,9 +31,9 @@ O resultado final desse desafio deve ser algo em torno de:
 
 ![Project´s preview](https://github.com/Clara-Pacheco/rocketMovies-Frontend/blob/main/src/assets/signup.png)  
 
-![Project´s preview]()  
+![Project´s preview](https://github.com/Clara-Pacheco/rocketMovies-Frontend/blob/main/src/assets/Approutes-preview.gif)  
 
-![Project´s preview]()
+![Project´s preview](https://github.com/Clara-Pacheco/rocketMovies-Frontend/blob/main/src/assets/AuthRoutes-preview.gif)
 
 <br>  
 
