@@ -1,5 +1,7 @@
 import styled from "styled-components";
 
+import { Link } from "react-router-dom"
+
 export const Container = styled.div`
   grid-area: header;
   
@@ -50,12 +52,13 @@ export const Input = styled.input`
     }
   `;
 
-  export const Profile = styled.div`
+  export const Profile = styled(Link)`
 
       display: flex;
       align-items: center;
       justify-content: center;
       margin-right: 132px;
+      margin-top: 24px;
       
 
       width: 198px;
@@ -72,11 +75,13 @@ export const Input = styled.input`
       > strong { 
         font-weight: 700;   
         color: ${({ theme }) => theme.COLORS.PARAGRAPH_MOVIEINFO};
+        text-decoration: none;
       }
 
       > span {
         font-weight: 400; 
         color: ${({ theme }) => theme.COLORS.PLACEHOLDER_ICONS_COLOR};
+        text-decoration: none;
       }
 
       > img {
