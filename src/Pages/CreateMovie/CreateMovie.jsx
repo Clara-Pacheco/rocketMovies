@@ -7,6 +7,8 @@ import { Button } from '../../Components/Button/Button.jsx'
 import { Textarea } from '../../Components/Textarea/Textarea.jsx'
 import { Tag } from '../../Components/Tag/Tag.jsx'
 
+import { Link } from 'react-router-dom'
+
 import { FiArrowLeft, FiX,FiPlus } from 'react-icons/fi'
 
 export function CreateMovie() {
@@ -15,7 +17,7 @@ export function CreateMovie() {
       <Header />
         <InternalContainer>
           <header>
-            <ButtonText
+            <ButtonText to="/"
               icon = {FiArrowLeft}
               value="Voltar"
             />
