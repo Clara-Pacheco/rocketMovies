@@ -25,6 +25,11 @@ export default createGlobalStyle`
     text-decoration: none;
   }
 
+  a:-webkit-any-link {
+    color: #FFF;
+    
+}
+
   button, a {
     cursor: pointer;
     transition: filter 0.2s;
