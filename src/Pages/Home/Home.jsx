@@ -1,5 +1,6 @@
 import { Container, Button, Content, TagGroup, FilmInfo } from './styles.js'
 
+import { Link } from 'react-router-dom'
 import { FiPlus } from 'react-icons/fi'
 
 import { Header } from '../../Components/Header/Header.jsx'
@@ -13,7 +14,7 @@ export function Home() {
       <div>
         <h1>Meus filmes</h1>
         
-        <Button>
+        <Button to="/create">
           <FiPlus />
           Adicionar filme
         </Button>
