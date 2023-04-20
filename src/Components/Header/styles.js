@@ -65,23 +65,21 @@ export const Input = styled.input`
       height: 98px;
       font-size: 14px;
       line-height: 18px;
+      color: ${({ theme }) => theme.COLORS.PARAGRAPH_MOVIEINFO};
 
       > div {
-        display: flex;
-        flex-direction: column;
-        margin-right: 9px;
-      }
+          display: flex;
+          flex-direction: column;
+          margin-right: 9px;
 
-      > strong { 
-        font-weight: 700;   
-        color: ${({ theme }) => theme.COLORS.PARAGRAPH_MOVIEINFO};
-        text-decoration: none;
-      }
+          > strong { 
+          font-weight: 700;   
+        }
 
-      > span {
-        font-weight: 400; 
-        color: ${({ theme }) => theme.COLORS.PLACEHOLDER_ICONS_COLOR};
-        text-decoration: none;
+          > span {
+          font-weight: 400; 
+          color: ${({ theme }) => theme.COLORS.PLACEHOLDER_ICONS_COLOR};
+        }
       }
 
       > img {
