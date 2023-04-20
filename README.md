@@ -7,8 +7,6 @@
 <img src="https://img.shields.io/github/repo-size/Clara-Pacheco/rocketMovies-Frontend"/>&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/github/languages/count/Clara-Pacheco/rocketMovies-Frontend"/>
 
-[![Netlify Status]()
-
 </div>
 
 <br>
@@ -28,6 +26,12 @@ Principais pontos abordados nesse desafio:
 ## 💻 Projeto
 
 O resultado final desse desafio deve ser algo em torno de:
+
+![Project´s preview](https://github.com/Clara-Pacheco/rocketMovies-Frontend/blob/main/src/assets/signin.png)  
+
+![Project´s preview](https://github.com/Clara-Pacheco/rocketMovies-Frontend/blob/main/src/assets/signup.png)  
+
+![Project´s preview]()  
 
 ![Project´s preview]()
 
