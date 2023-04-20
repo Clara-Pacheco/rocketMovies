@@ -3,7 +3,7 @@
 <img width="150px" src="https://www.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Fexplorer.svg&w=256&q=75"  alt="">
 <br>
 <p align="center">
-<img src="https://img.shields.io/github/last-commit/https://github.com/Clara-Pacheco/rocketMovies-Frontend"/>&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/github/last-commit/Clara-Pacheco/rocketMovies-Frontend"/>&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/github/repo-size/Clara-Pacheco/rocketMovies-Frontend"/>&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/github/languages/count/Clara-Pacheco/rocketMovies-Frontend"/>
 
@@ -12,6 +12,10 @@
 </div>
 
 <br>
+
+# 🎬 RocketMovies
+
+![Project cover](https://github.com/Clara-Pacheco/rocketMovies-Frontend/blob/main/src/assets/cover.jpg)
 
 ## 💻 Sobre o desafio
 
