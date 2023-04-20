@@ -1,5 +1,5 @@
 import { Container, Form, Avatar } from './styles'
-
+import { Link } from 'react-router-dom'
 import { FiUser, FiMail, FiLock, FiCamera, FiArrowLeft } from 'react-icons/fi'
 
 import { Button } from '../../Components/Button/Button'
@@ -11,7 +11,7 @@ export function Profile(){
   return (
     <Container>
       <header>
-        <ButtonText 
+        <ButtonText to="/"
           value="Voltar"
           icon={ FiArrowLeft }
         />
