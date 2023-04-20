@@ -81,9 +81,9 @@ no decorrer do programa <b>Explorer</b>.
 
 📅 **Conclusão:** 19.04.2023
 
-🕛 **Status:** Frontend da aplicação concluído✔️
+🕛 **Status:** Frontend da aplicação concluído✔️ 🛠 Trabalhando no backend da aplicação.🛢🧰
 
-🌎 **Result Preview:**   rocketmovies-three.vercel.app
+🌎 **Result Preview:**   [Link](rocketmovies-three.vercel.app)
 
 <br>  
 
