@@ -25,10 +25,10 @@ export default createGlobalStyle`
     text-decoration: none;
   }
 
-  a:-webkit-any-link {
+  /* a:-webkit-any-link {
     color: #FFF;
     
-}
+} */
 
   button, a {
     cursor: pointer;
