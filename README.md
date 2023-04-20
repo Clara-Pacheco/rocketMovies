@@ -19,10 +19,10 @@
 
 Principais pontos abordados nesse desafio:
 
- Introdução ao React:
- : Componentes;
- : Propriedades;
- : Rotas;
+ - Introdução ao React:
+ - **Componentes**;
+ - **Propriedades**;
+ - **Rotas**;
 - Import/ Export;
 - Desestruturação;
 - Styled Components
