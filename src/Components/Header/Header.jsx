@@ -1,5 +1,7 @@
 import { Container, Input, Profile } from './styles.js'
 
+import { Link } from 'react-router-dom'
+
 export function Header(){
   return (
     <Container >
@@ -11,7 +13,7 @@ export function Header(){
         required
       />
      
-      <Profile>
+      <Profile to="/profile">
         <div>
           <strong>Clara Pacheco</strong>
           <span>Sair</span>
