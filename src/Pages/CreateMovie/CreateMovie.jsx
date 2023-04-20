@@ -25,7 +25,7 @@ export function CreateMovie() {
             <Input placeholder ="Título" />
             <Input placeholder ="Sua nota (de 0 a 5)" />
           </InputField>
-          <Textarea value="Observações" />
+          <Textarea placeholder="Observações" />
           <Section>
             <h2>Marcadores</h2>
             <TagsContainer>
