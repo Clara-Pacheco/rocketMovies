@@ -41,11 +41,11 @@ Aqui neste **[link](https://www.figma.com/file/PAc8jXVZnFevkhiuNPKV5u/RocketMovi
 
 ## 💾 Tecnologias  
 
-ReactJS - utilizado para construir as interfaces;
-JS - usado para fazer toda a lógica da aplicação;
-Styled Components - utilizado para fazer a estilização;
-Git - responsável por realizar o versionamento do código.
-Vite - usado para criar um projeto React;
+- **ReactJS** - utilizado para construir as interfaces;
+- **JS** - usado para fazer toda a lógica da aplicação;
+- **Styled Components** - utilizado para fazer a estilização;
+- **Git** - responsável por realizar o versionamento do código.
+- **Vite** - usado para criar um projeto React;
 NPM - utilizado para realizar a instalação das dependências;
 
 <br>  
