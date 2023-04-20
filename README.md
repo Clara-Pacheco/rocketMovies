@@ -87,7 +87,7 @@ no decorrer do programa <b>Explorer</b>.
 
 <br>  
 
-<h2>Stack Utilizada</h2>  
+<h2> 🛠 Stack Utilizada</h2>  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -103,7 +103,7 @@ no decorrer do programa <b>Explorer</b>.
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
-<h2>Contatos</h2>  
+<h2> 📞 Contatos</h2>  
 
 <div>
     <a href="https://www.linkedin.com/in/maria-clara-pacheco/" target="_blank">
