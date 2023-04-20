@@ -61,6 +61,7 @@ export const Content = styled.div`
 export const TagGroup = styled.div`
   display: flex;
   margin-top: 20px;
+  gap: 10px;
 
 `;
 
