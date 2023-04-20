@@ -1,5 +1,5 @@
 import { Container,Form,Background } from './styles.js'
-
+import { Link } from 'react-router-dom'
 import { FiMail, FiLock, FiUser,FiArrowLeft} from 'react-icons/fi'
 
 import { Button } from '../../Components/Button/Button'
@@ -31,10 +31,10 @@ export function SignUp(){
         />
         <Button title="Cadastrar" /> 
 
-        <a href='#'>
+        <Link to="/signin">
           <FiArrowLeft />
           Voltar para login
-        </a>
+        </Link>
         
        </Form>
 
